@@ -34,3 +34,16 @@ f<-1:5
 f
 g<-seq(1, 9, 2) #  increase by 2 from 1 to 9.
 g
+h<-rep(1, 5)
+h
+i<- c(e,f,g)
+i
+
+j<-matrix(1:8, ncol=2)
+j
+k<-matrix(1:8, nrow=2)
+k
+l<-cbind(g, h)
+l
+m<-cbind(g, h)
+m
